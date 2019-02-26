@@ -13,13 +13,9 @@ function dataBaseEntry() {
   
   var fixed2 = selectedContent.join().split(',');
   
-  //var newContent = []
   Logger.log(selectedContent.length);
   for(var x=0;x<selectedContent.length;x++){
   
-  
-  
-  //for(var 
   
   Logger.log(selectedContent[x]); 
   
